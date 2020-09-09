@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Legacy2CPSWorkaround/1.0.0": {
+        "type": "package",
+        "build": {
+          "build/netstandard1.0/Legacy2CPSWorkaround.props": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Legacy2CPSWorkaround/1.0.0": {
+      "sha512": "GU/g1RQyByRq2wOXvIIK28VZWHHHWoKRw+udnY9hhkqUSvsnbqfI9ecPd5MnQdO+oE02I9To2lABDEQ2CnlmJw==",
+      "type": "package",
+      "path": "legacy2cpsworkaround/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/netstandard1.0/Legacy2CPSWorkaround.props",
+        "build/portable-net4+sl4+wp7+win8/Legacy2CPSWorkaround.props",
+        "legacy2cpsworkaround.1.0.0.nupkg.sha512",
+        "legacy2cpsworkaround.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Legacy2CPSWorkaround >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Pete\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Pete\\CsCollections\\src\\CsCollections\\CsCollections.csproj",
+      "projectName": "CsCollections",
+      "projectPath": "C:\\Users\\Pete\\CsCollections\\src\\CsCollections\\CsCollections.csproj",
+      "packagesPath": "C:\\Users\\Pete\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Pete\\CsCollections\\src\\CsCollections\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Pete\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "Legacy2CPSWorkaround": {
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

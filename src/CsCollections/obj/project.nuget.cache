@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PMQm3OOuNArkmtmMOtXaqlrMJRheOEUU8/2EgnvGIUl+Wr6Zz0F7R1d7bhvQmyltLvPLheoPh5oIr6OinC7vQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pete\\CsCollections\\src\\CsCollections\\CsCollections.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pete\\.nuget\\packages\\legacy2cpsworkaround\\1.0.0\\legacy2cpsworkaround.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

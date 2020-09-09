@@ -1,0 +1,13 @@
+C:\Users\Pete\CsCollections\src\CsCollections\bin\Debug\netcoreapp3.1\CsCollections.exe
+C:\Users\Pete\CsCollections\src\CsCollections\bin\Debug\netcoreapp3.1\CsCollections.deps.json
+C:\Users\Pete\CsCollections\src\CsCollections\bin\Debug\netcoreapp3.1\CsCollections.runtimeconfig.json
+C:\Users\Pete\CsCollections\src\CsCollections\bin\Debug\netcoreapp3.1\CsCollections.runtimeconfig.dev.json
+C:\Users\Pete\CsCollections\src\CsCollections\bin\Debug\netcoreapp3.1\CsCollections.dll
+C:\Users\Pete\CsCollections\src\CsCollections\bin\Debug\netcoreapp3.1\CsCollections.pdb
+C:\Users\Pete\CsCollections\src\CsCollections\obj\Debug\netcoreapp3.1\CsCollections.csprojAssemblyReference.cache
+C:\Users\Pete\CsCollections\src\CsCollections\obj\Debug\netcoreapp3.1\CsCollections.AssemblyInfoInputs.cache
+C:\Users\Pete\CsCollections\src\CsCollections\obj\Debug\netcoreapp3.1\CsCollections.AssemblyInfo.cs
+C:\Users\Pete\CsCollections\src\CsCollections\obj\Debug\netcoreapp3.1\CsCollections.csproj.CoreCompileInputs.cache
+C:\Users\Pete\CsCollections\src\CsCollections\obj\Debug\netcoreapp3.1\CsCollections.dll
+C:\Users\Pete\CsCollections\src\CsCollections\obj\Debug\netcoreapp3.1\CsCollections.pdb
+C:\Users\Pete\CsCollections\src\CsCollections\obj\Debug\netcoreapp3.1\CsCollections.genruntimeconfig.cache
